@@ -8,7 +8,7 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-a
 
 POST metodu ile oluşturulur 
 Enter URL or paste text yazan alana = https://api.trello.com/1/boards?key=&token=&name=Trello eklenir
-key ve token yazılır Send ile çalıştırılır.
+Value yazan kısım altına key, token, name bilgileri eklenir.
 
 
                   Postman - Trello Liste oluşturma
