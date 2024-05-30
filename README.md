@@ -11,6 +11,16 @@ Enter URL or paste text yazan alana = https://api.trello.com/1/boards?key=&token
 key ve token yazılır Send ile çalıştırılır.
 
 
+                  Postman - Trello Liste oluşturma
+
+POST metodu ile oluşturulur 
+Enter URL or paste text yazan alana = https://api.trello.com/1/lists?key=&token=&name=Trello Liste&idBoard= eklenir
+Value yazan kısım altına key, token, name, idBoard bilgileri eklenir.
+
+
+
+
+
 
 
 
