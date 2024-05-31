@@ -18,11 +18,19 @@ Enter URL or paste text yazan alana = https://api.trello.com/1/lists?key=&token=
 Value yazan kısım altına key, token, name, idBoard bilgileri eklenir.
 
 
-                ****Postman - Trello Kart oluşturma****
+                     ****Postman - Trello Kart Silme****
 
 POST metodu ile oluşturulur 
 Enter URL or paste text yazan alana = https://api.trello.com/1/cards?idList=&key=&token=&name= eklenir
 Value yazan kısım altına key, token, name, idlist bilgileri eklenir
+
+
+                     ****Postman - Trello Kart Silme****
+
+DELETE metodu ile oluşturulur 
+Enter URL or paste text yazan alana = https://api.trello.com/1/cards/:id?key=&token= eklenir
+Value yazan kısım altına key, token, kart idsi için id bilgileri eklenir
+
 
 
 
